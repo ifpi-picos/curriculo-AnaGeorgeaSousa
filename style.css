@@ -12,6 +12,7 @@ img#img{
 body{
     width: 50%;
     margin: 20px auto;
+    background-color:rosybrown;
 }
 
 img{
@@ -21,7 +22,7 @@ img{
 }
 
 .linha{
-    border-top: 2px solid black;
+    border-top: 3px solid black;
 }
 
 img#face{
